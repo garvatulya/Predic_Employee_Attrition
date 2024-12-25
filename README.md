@@ -1,4 +1,4 @@
-# Predic_Employee_Attrition
+# Predict_Employee_Attrition
 
 ## Objective
 Using machine learning to predict employee attrition in Python
